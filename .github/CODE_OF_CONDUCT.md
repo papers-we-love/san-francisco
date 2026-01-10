@@ -15,7 +15,7 @@ attendees are expected to show respect and courtesy to other attendees
 throughout the meet-ups and at all Papers We Love events and interactions on
 the GitHub repository, IRC, or [Discord](https://discord.gg/TdYvRjX6).
 
-Need help? ----------
+## Need help?
 
 If you are experiencing harassment on or have concerns about content within the
 [GitHub repo](https://github.com/papers-we-love/san-francisco), the
@@ -23,14 +23,14 @@ If you are experiencing harassment on or have concerns about content within the
 server](https://discord.gg/TdYvRjX6), or
 [PapersWeLove.org](http://paperswelove.org) please contact:
 
-- **Aaron D. Goldman** [GoldmanAaron+paperswelove@gmail.com](mailto:GoldmanAaron+paperswelove@gmail.com)
-- **Akshay Shah** [akshay@akshayshah.org](mailto:akshay@akshayshah.org)
-- **All** [contact@paperswelove.org](mailto:contact@paperswelove.org)
+- **Aaron D. Goldman**: [GoldmanAaron+paperswelove@gmail.com](mailto:GoldmanAaron+paperswelove@gmail.com)
+- **Akshay Shah**: [akshay@akshayshah.org](mailto:akshay@akshayshah.org)
+- **PWL NYC organizers**: [contact@paperswelove.org](mailto:contact@paperswelove.org)
 
-The Papers We Love SF organizers are also available to help you with any issues
-or concerns at live events.
+The Papers We Love organizers are also available to help you with any issues or
+concerns at live events.
 
-What it means -------------
+## What it means
 
 Papers We Love is dedicated to providing a harassment-free experience for
 everyone, regardless of gender, sexual orientation, disability, physical
@@ -50,7 +50,7 @@ discretion of the organizers.
 
 Thank you for helping make this a welcoming, friendly event for all.
 
-Spelling it out ---------------
+## Spelling it out
 
 Harassment includes offensive verbal comments related to gender, sexual
 orientation, disability, physical appearance, body size, race, religion, sexual
