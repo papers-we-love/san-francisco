@@ -1,7 +1,7 @@
 # Papers We Love Too
 
- [![Discord](https://img.shields.io/static/v1?label=Discord&color=mediumslateblue)](https://discord.gg/Tu2VynkRWV)
- [![Meetup](https://img.shields.io/static/v1?label=Meetup&color=FF4A79)](https://www.meetup.com/papers-we-love-too/)
+ [![Discord](https://img.shields.io/static/v1?label=Discord&message=chat&color=mediumslateblue)](https://discord.gg/Tu2VynkRWV)
+ [![Meetup](https://img.shields.io/static/v1?label=Meetup&message=events&color=FF4A79)](https://www.meetup.com/papers-we-love-too/)
 
 **Papers We Love** (*PWL*) is a community built around reading, discussing and
 learning more about academic computer science papers. This is the [San
