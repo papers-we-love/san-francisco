@@ -12,9 +12,9 @@ repository](https://github.com/papers-we-love/papers-we-love) for more info.
 
 Due to
 [licenses](.github/CONTRIBUTING.md#respect-content-licenses)
-we cannot always host the papers themselves (when we do, you will see a
-:scroll: emoji next to its title in the directory README) but we can provide
-links to their locations.
+we cannot always host the papers themselves (when we do, you will see a :scroll:
+emoji next to its title in the directory README) but we can provide links to
+their locations.
 
 If you enjoy the papers, perhaps stop by a [San Francisco
 meetup](https://www.meetup.com/papers-we-love-too/) and join the discussion.
