@@ -17,7 +17,8 @@ emoji next to its title in the directory README) but we can provide links to
 their locations.
 
 If you enjoy the papers, perhaps stop by a [San Francisco
-meetup](https://www.meetup.com/papers-we-love-too/) and join the discussion.
+meetup](https://www.meetup.com/papers-we-love-too/) and join the discussion (or
+even [give a talk](https://forms.gle/g2VooEhZZkMT9E2D7)!).
 You can also discuss *PWL* events, the content in this repository, and/or
 anything related to *PWL* on our [Discord](https://discord.gg/Tu2VynkRWV)
 server.
