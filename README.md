@@ -1,7 +1,7 @@
 # Papers We Love Too
 
  [![Discord](https://img.shields.io/static/v1?label=Discord&message=chat&color=mediumslateblue)](https://discord.gg/Tu2VynkRWV)
- [![Meetup](https://img.shields.io/static/v1?label=Meetup&message=attend&color=FF4A79)](https://www.meetup.com/papers-we-love-too/)
+ [![Meetup](https://img.shields.io/static/v1?label=Meetup&message=attend&color=FF4A79)](https://luma.com/pwl)
  [![Meetup](https://img.shields.io/static/v1?label=Meetup&message=speak&color=FF4A79)](https://forms.gle/yxPyFv9xkXkmZXtz8)
 
 **Papers We Love** (*PWL*) is a community built around reading, discussing and
